@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/shriazure2021/pipelines-java/_apis/build/status/shrikalebere.pipelines-java?branchName=master)](https://dev.azure.com/shriazure2021/pipelines-java/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
